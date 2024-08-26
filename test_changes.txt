@@ -2,3 +2,4 @@ test changes
 
 Not so new changes
 New line
+One more new line
